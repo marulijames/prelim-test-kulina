@@ -1,8 +1,5 @@
 # kulina_test
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Kulina Mobile Engineer Preliminary Test
+#
+Author : Maruli James Herbert
